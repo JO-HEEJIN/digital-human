@@ -96,6 +96,8 @@ NGC API Key is required to access resources within this repository.
 
 Refer to [Accessing And Pulling an NGC Container Image via the Docker CLI](https://docs.nvidia.com/ngc/gpu-cloud/ngc-catalog-user-guide/index.html#accessing_registry) for more information.
 
+Heejin API : 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
+
 ### 3. **Cloud Service Provider Setup:**
 The Digital human for customer service blueprint includes easy deployment scripts for major cloud service providers, it is recommended to have CSP secrets handy to deploy the digital human application. The RAG application can be deployment locally with docker compose using provided customization and deployment scripts.
 
